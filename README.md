@@ -1,5 +1,5 @@
 <img width="735" height="523" alt="Image" src="https://github.com/user-attachments/assets/2a9562df-bf75-407b-ba6a-962a8b2d8b3b" />
-https://github.com/kittinan/spotify-github-profile.git
+
 <!--
 **KAMISHIROH/KAMISHIROH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
